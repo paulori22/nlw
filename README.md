@@ -8,6 +8,12 @@ O propósito do projeto é facilitar o encontro de pontos de coleta de resíduos
 
 Por meio do aplicativo de celular os usuários podem encontrar os pontos de coleta perto da sua localização.
 
+As tecnologias utilizadas no projeto são:
+
+- **Front-end**: ReactJS
+- **Back-end**: NodeJS
+- **Mobile**: React Native
+
 ### Web
 
 ![Home Web](https://github.com/paulori22/nlw/blob/master/readme-images/web/Home.png)
