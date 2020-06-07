@@ -23,7 +23,7 @@ interface Point {
 }
 
 const pointService = {
-  registerPoint: (data: Point, success: SucessFunc, fail?: FailFunc) => {
+  registerPoint: (data: FormData, success: SucessFunc, fail?: FailFunc) => {
     api
       .post("/points", data)
       .then((response) => success(response))

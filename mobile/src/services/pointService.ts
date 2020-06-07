@@ -19,6 +19,7 @@ interface Data {
   point: {
     id: number;
     image: string;
+    image_url: string;
     name: string;
     email: string;
     whatsapp: string;
@@ -35,6 +36,7 @@ interface Data {
 interface PointFilter {
   id: number;
   image: string;
+  image_url: string;
   name: string;
   email: string;
   whatsapp: string;
