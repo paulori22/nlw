@@ -10,9 +10,8 @@ Por meio do aplicativo de celular os usuários podem encontrar os pontos de cole
 
 ### Web
 
-<img src="https://github.com/paulori22/nlw/blob/master/readme-images/web/Home.png" width="960" height="674">
-
-<img src="https://github.com/paulori22/nlw/blob/master/readme-images/web/Cadastro.png" width="960" height="674">
+![Home Web](https://github.com/paulori22/nlw/blob/master/readme-images/web/Home.png)
+![Cadastro Ponto](https://github.com/paulori22/nlw/blob/master/readme-images/web/Cadastro.png)
 
 ### Mobile
 
